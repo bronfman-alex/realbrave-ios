@@ -17,7 +17,7 @@
                BlueprintIdentifier = "4B0012221FBA52C4004A587E"
                BuildableName = "Video-Internal.app"
                BlueprintName = "Video-Internal"
-               ReferencedContainer = "container:VideoApp.xcodeproj">
+               ReferencedContainer = "container:Realbrave VideoApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,7 +33,7 @@
             BlueprintIdentifier = "4B0012221FBA52C4004A587E"
             BuildableName = "Video-Internal.app"
             BlueprintName = "Video-Internal"
-            ReferencedContainer = "container:VideoApp.xcodeproj">
+            ReferencedContainer = "container:Realbrave VideoApp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <TestPlans>
@@ -56,7 +56,7 @@
                BlueprintIdentifier = "DCE965B7237492410002EC78"
                BuildableName = "Video-InternalTests.xctest"
                BlueprintName = "Video-InternalTests"
-               ReferencedContainer = "container:VideoApp.xcodeproj">
+               ReferencedContainer = "container:Realbrave VideoApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -66,7 +66,7 @@
                BlueprintIdentifier = "DC5CC38C249C0EC000355CC6"
                BuildableName = "Video-InternalUITests.xctest"
                BlueprintName = "Video-InternalUITests"
-               ReferencedContainer = "container:VideoApp.xcodeproj">
+               ReferencedContainer = "container:Realbrave VideoApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -88,7 +88,7 @@
             BlueprintIdentifier = "4B0012221FBA52C4004A587E"
             BuildableName = "Video-Internal.app"
             BlueprintName = "Video-Internal"
-            ReferencedContainer = "container:VideoApp.xcodeproj">
+            ReferencedContainer = "container:Realbrave VideoApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -105,7 +105,7 @@
             BlueprintIdentifier = "4B0012221FBA52C4004A587E"
             BuildableName = "Video-Internal.app"
             BlueprintName = "Video-Internal"
-            ReferencedContainer = "container:VideoApp.xcodeproj">
+            ReferencedContainer = "container:Realbrave VideoApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

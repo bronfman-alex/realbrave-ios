@@ -17,7 +17,7 @@
                BlueprintIdentifier = "4B00125F1FBA52E5004A587E"
                BuildableName = "Video-Community.app"
                BlueprintName = "Video-Community"
-               ReferencedContainer = "container:VideoApp.xcodeproj">
+               ReferencedContainer = "container:Realbrave VideoApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,7 +33,7 @@
             BlueprintIdentifier = "4B00125F1FBA52E5004A587E"
             BuildableName = "Video-Community.app"
             BlueprintName = "Video-Community"
-            ReferencedContainer = "container:VideoApp.xcodeproj">
+            ReferencedContainer = "container:Realbrave VideoApp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <TestPlans>
@@ -50,7 +50,7 @@
                BlueprintIdentifier = "DCE965C5237498F50002EC78"
                BuildableName = "Video-CommunityTests.xctest"
                BlueprintName = "Video-CommunityTests"
-               ReferencedContainer = "container:VideoApp.xcodeproj">
+               ReferencedContainer = "container:Realbrave VideoApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -72,7 +72,7 @@
             BlueprintIdentifier = "4B00125F1FBA52E5004A587E"
             BuildableName = "Video-Community.app"
             BlueprintName = "Video-Community"
-            ReferencedContainer = "container:VideoApp.xcodeproj">
+            ReferencedContainer = "container:Realbrave VideoApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -89,7 +89,7 @@
             BlueprintIdentifier = "4B00125F1FBA52E5004A587E"
             BuildableName = "Video-Community.app"
             BlueprintName = "Video-Community"
-            ReferencedContainer = "container:VideoApp.xcodeproj">
+            ReferencedContainer = "container:Realbrave VideoApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -1741,7 +1741,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 241282321E36A6AB002198BE /* Build configuration list for PBXProject "VideoApp" */;
+			buildConfigurationList = 241282321E36A6AB002198BE /* Build configuration list for PBXProject "Realbrave VideoApp" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -3078,7 +3078,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		241282321E36A6AB002198BE /* Build configuration list for PBXProject "VideoApp" */ = {
+		241282321E36A6AB002198BE /* Build configuration list for PBXProject "Realbrave VideoApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				241282571E36A6AB002198BE /* Debug */,
